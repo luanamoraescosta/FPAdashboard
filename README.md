@@ -15,4 +15,10 @@ This project investigates how the FPA uses social media — particularly Instagr
 
 The analysis focuses on the **content and discourse of Instagram posts**, transforming the collected data into visualizations that allow patterns and recurring themes to be explored.
 
+## Research Collaboration
+
+This analysis was conducted in collaboration with **Bruna Távora**, whose research focuses on digital communication and political communication.
+
+
+
 ---
